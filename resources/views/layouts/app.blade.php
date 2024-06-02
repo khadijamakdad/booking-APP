@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Hotel MK</title>
-    <!-- Utiliser Bootstrap avec un thème personnalisé -->
-    <link href="https://stackpath.bootstrapcdn.com/bootswatch/4.5.2/slate/bootstrap.min.css" rel="stylesheet">
+    <title>Hotel Reservation System</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
 </head>
 <body>
     <div class="container mt-5">
